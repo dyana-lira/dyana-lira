@@ -1,12 +1,10 @@
 ### 🖖 Hello, World!!
 
 💻 Me chamo Dyana, sou desenvolvedora em formação com foco em Java, formanda em Engenharia da Computação, profissional em Suporte de TI.
-
 🧠 Curiosa por natureza.
-
 ☕ Café, Muay Thai e uma pitada de caos criativo fazem parte do processo.
-
 📌 Em constante evolução — aprendendo, construindo e melhorando a cada projeto.
+👉 Confesso que demorei para atualizar as informações por aqui, sempre achando que não teria algo relevante para ser mostrado, aos poucos estou abandonando essa visão e vou estar continuamente atualizando os diretórios.
 
 ### 💻 Backend
 
