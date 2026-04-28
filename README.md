@@ -21,7 +21,7 @@
 
 * 🛠️ **IT Service Management & Support:** GLPI (ITSM, ticketing, asset management) | Active Directory (user and access control) | ITIL 4 Foundation (incident, problem, and service management) | Experience with support workflows and operational routines
 
-* 🤖 **Data & AI (Learning Path): ** Algorithmic thinking | Fundamentals of data processing | Ongoing studies in Big Data and Artificial Intelligence
+* 🤖 **Data & AI (Learning Path):** Algorithmic thinking | Fundamentals of data processing | Ongoing studies in Big Data and Artificial Intelligence
 
 * ⚙️ **Tools & Technologies:** Git & GitHub (version control, branching, collaboration) | Command Line Interface (CLI) | Java & Python development environments
 
