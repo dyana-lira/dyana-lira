@@ -10,52 +10,21 @@
 
 👉 Confesso que demorei para atualizar as informações por aqui, sempre achando que não teria algo relevante para ser mostrado, aos poucos estou abandonando essa visão e vou estar continuamente atualizando os diretórios.
 
-### 💻 Backend
+### Habilidades e Ferramentas
+* 💻 **Backend:** Java (core development) | Object-Oriented Programming (OOP) | Implementation of business rules (financial systems, validations, transaction flows) | REST API fundamentals and backend application logic
 
-* Java (core development)
-* Object-Oriented Programming (OOP)
-* Implementation of business rules (financial systems, validations, transaction flows)
-* REST API fundamentals and backend application logic
+* 🌐 **Frontend:** HTML, CSS, JavaScript | Responsive UI development and integration with backend services
 
-### 🌐 Frontend
+* 🏗️ **Software Engineering & Architecture:** Clean Code principles | Layered Architecture (Controller, Service, Model) | SOLID principles (foundations) | System design and business logic modeling
 
-* HTML, CSS, JavaScript
-* Responsive UI development and integration with backend services
+* 🗄️ **Data & Persistence:** Relational database fundamentals | Data modeling and structuring for scalable applications
 
-### 🏗️ Software Engineering & Architecture
+* 🛠️ **IT Service Management & Support:** GLPI (ITSM, ticketing, asset management) | Active Directory (user and access control) | ITIL 4 Foundation (incident, problem, and service management) | Experience with support workflows and operational routines
 
-* Clean Code principles
-* Layered Architecture (Controller, Service, Model)
-* SOLID principles (foundations)
-* System design and business logic modeling
+* 🤖 **Data & AI (Learning Path): ** Algorithmic thinking | Fundamentals of data processing | Ongoing studies in Big Data and Artificial Intelligence
 
-### 🗄️ Data & Persistence
+* ⚙️ **Tools & Technologies:** Git & GitHub (version control, branching, collaboration) | Command Line Interface (CLI) | Java & Python development environments
 
-* Relational database fundamentals
-* Data modeling and structuring for scalable applications
+* 📌 **Professional Highlights:** Strong analytical and problem-solving skills | Fast learner with a continuous improvement mindset | Ability to bridge development and IT support contexts | Focus on writing clean, maintainable, and scalable code
 
-### 🛠️ IT Service Management & Support
 
-* GLPI (ITSM, ticketing, asset management)
-* Active Directory (user and access control)
-* ITIL 4 Foundation (incident, problem, and service management)
-* Experience with support workflows and operational routines
-
-### 🤖 Data & AI (Learning Path)
-
-* Algorithmic thinking
-* Fundamentals of data processing
-* Ongoing studies in Big Data and Artificial Intelligence
-
-### ⚙️ Tools & Technologies
-
-* Git & GitHub (version control, branching, collaboration)
-* Command Line Interface (CLI)
-* Java & Python development environments
-
-### 📌 Professional Highlights
-
-* Strong analytical and problem-solving skills
-* Fast learner with a continuous improvement mindset
-* Ability to bridge development and IT support contexts
-* Focus on writing clean, maintainable, and scalable code
